@@ -1,2 +1,2 @@
 # The-Daily-Fail
-Extra project involving random strings in Ruby.
+This was a project I worked on with Daniel Kelsey, one of the top students on my course (and a truly fascinating person).  In order to highlight the absurdity of many of the headlines in modern media, and to practice CSS and Ruby more thoroughly, we created The Daily Fail, an app that can take in arrays of headline subjects and the rest of the actual headlines, then randomly combine them for even more absurd (but potentially believable) effect.  Besides coming up with something that made us laugh, it was incredible to realise that we could have an idea, then create it, using what we'd learned in class.  
